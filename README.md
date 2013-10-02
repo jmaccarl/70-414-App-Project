@@ -1,4 +1,4 @@
 main
 ====
 
-Repo for all projects
+Repository for current app development project
